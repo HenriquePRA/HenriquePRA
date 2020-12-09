@@ -5,8 +5,8 @@ repositorios.
 
 - 🔭 Atualmente estou desenvolvendo uma aplicação que usa a stack PERN.
 - 🌱 Atualmente estou aprendendo MongoDB 
-- 💬 Me pergunte sobre python, postgresql e desenvolvimento full stack.
-- 📫 Meu email: HenriqueP.R@hotmail.com
+- 💬 Sinta-se livre pra me perguntar qualquer coisa sobre 
+POO, estrutura de dados, algoritmos ou desenvolvimento full stack.
 - :link: Meu linkedin: https://www.linkedin.com/in/henrique-poggi/
 
 ### Sistemas operacionais que uso :computer:
