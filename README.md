@@ -1,10 +1,11 @@
 ### :herb: Seja bem vindo(a) ao meu perfil no github :herb:
 
 Atualmente estudo no último período do curso superior de tecnologia em sistemas para internet,
-e trabalho como desenvolvedor backend na Dock.tech.
+e trabalho como desenvolvedor backend na instituição financeira Dock.tech.
 
-Devido a experiência de trabalho grande parte do meu conhecimento gira em torno do desenvolvimento, 
-análise e manutenção de microserviços REST que usam GoLang, Postgres, Apache Kafka e Swagger UI
+Apesar de dominar tecnologias front-end como Javascript, HTML e CSS devido a experiência de trabalho 
+grande parte do meu conhecimento gira em torno do desenvolvimento, análise e manutenção de microserviços 
+REST que usam GoLang, Java (Spring), Postgres, SQL Server, Apache Kafka, Rabbit MQ e Swagger UI
 
 - 🔭 Atualmente estou desenvolvendo uma aplicação que usa a stack PERN com hospedagem na AWS.
 - 🌱 Atualmente estou focado em aprender padrões de projetos 
